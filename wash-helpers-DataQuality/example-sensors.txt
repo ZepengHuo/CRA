@@ -1,0 +1,4 @@
+i-kry-sensor-accelerometer
+i-kry-sensor-gyroscope
+a-kry-sensor-accelerometer
+a-kry-sensor-gyroscope
