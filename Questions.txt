@@ -1,0 +1,57 @@
+What best describes your activity level yesterday?
+When did you fall asleep last night?
+When did you wake up today?
+Pick the number that describes how difficult it was to complete your daily chores & duties yesterday:
+Pick the number that describes how you felt yesterday:
+Did you leave your house today (in the past 24 hours)?
+How long (in hours) were you outside today (in the past 24 hours)?
+Were you around people outside of your household today (in the past 24 hours)?
+How many crowds (i.e. groups of 10 or more people) did you encounter today?
+How long (in hours) were you in the same room as another person today (in the past 24 hours)?
+How long (in hours) were you in the same house on the same floor, but not in the same room with another person (in the past 24 hours)?
+Were you in the car with another person today (in the past 24 hours)?
+How long (in hours) were in the a car with another person?
+have a fever?
+have muscle aches or pains?
+have a cough?
+have a stuffy nose or sniffles?
+Are you sneezing more than usual?
+Do you have a sore throat?
+Do you have an ear ache?
+Are you experiencing any shortness of breath or difficulty breathing?
+Pick the number that describes how you felt yesterday:
+Did you see the doctor today (in the past 24 hours)?
+Did your doctor give you Tamiflu?
+Did you take any over-the-counter medication for cold or flu symptoms today (in the past 24 hours)?
+What medication did you take?
+Did anyone besides you use this phone today? 
+How  many times did someone use your phone today?
+When did they use your phone?
+How long did they hold it for (in minutes)?
+Did you work out today?
+Did you have your phone with you today?
+How long were you separated from your phone (in hours)?
+Please hold the phone in your hand and stay standing (still) for 30 seconds
+Please hold the phone in your hand and walk for 30 seconds
+Please hold the phone in your hand and lie down for 30 seconds
+Please hold the phone in your hand and sit for 30 seconds
+Did you skip any of the activities
+Please tell us why you skip the selected activities
+Please put the phone in your pocket and stay standing (still) for 30 seconds
+Please put the phone in your pocket and walk for 30 seconds
+Please put the phone in your pocket and lie down for 30 seconds
+Please put the phone in your pocket and sit for 30 seconds
+Did you skip any of the activities
+Please tell us why you skip the selected activities
+Please hold the phone in your hand and sit for 30 seconds
+Please hold the phone in your hand and lie down for 30 seconds
+Please hold the phone in your hand and walk for 30 seconds
+Please hold the phone in your hand and stay standing (still) for 30 seconds
+Did you skip any of the activities
+Please tell us why you skip the selected activities
+Please put the phone in your bag and sit for 30 seconds
+Please put the phone in your bag and lie down for 30 seconds
+Please put the phone in your bag and walk for 30 seconds
+Please put the phone in your bag and stay standing (still) for 30 seconds
+Did you skip any of the activities
+Please tell us why you skip the selected activities
